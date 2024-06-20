@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b7a49099-5a70-47b1-bdfa-74a1e74d104a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 101.6 26.67)
+		(size 54.61 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9259697c-0036-49f1-8241-f29f52d89331")
+		(property "Sheetname" "Output Rails"
+			(at 101.6 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "output_rails.kicad_sch"
+			(at 101.6 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dualrailusbc"
+				(path "/b7a49099-5a70-47b1-bdfa-74a1e74d104a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 166.37 26.67)
+		(size 39.37 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "962287ce-f681-49e3-872c-d81006a524c1")
+		(property "Sheetname" "Headers"
+			(at 166.37 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "headers.kicad_sch"
+			(at 166.37 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dualrailusbc"
+				(path "/b7a49099-5a70-47b1-bdfa-74a1e74d104a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 26.67)
+		(size 50.8 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a9330ab0-cb61-47c9-ba15-a122209fd99c")
+		(property "Sheetname" "USB-C PD"
+			(at 38.1 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb-c_pd.kicad_sch"
+			(at 38.1 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dualrailusbc"
+				(path "/b7a49099-5a70-47b1-bdfa-74a1e74d104a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
